@@ -1,4 +1,4 @@
-# React-Lorem-Ipsum-Generator: [Demo](https://react-project-lorem-ipsum-generator.netlify.app/)
+## React-Lorem-Ipsum-Generator: [Demo](https://react-project-lorem-ipsum-generator.netlify.app/)
 
 # Getting Started with Create React App
 
